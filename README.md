@@ -20,5 +20,5 @@ Each folder represents a specific day of the bootcamp, containing daily exercise
 | Day 10 | [AI Model Analyzer](./Day10_FunctionOutputs) | Functions with Outputs, Multiple Returns, Docstrings | - |
 | Day 11 | [Blackjack Practise](./Day11_Practise) | Ace Logic Simulation & Dealer AI, Lists | [Play 🎮](https://replit.com/@akinntok45/Day11-Blackjack-live) |
 
---
-                🚀 * Follow my progress as I level up every day! * 🚀
+--- 
+🚀 * Follow my progress as I level up every day! * 🚀
