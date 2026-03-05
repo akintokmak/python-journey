@@ -18,7 +18,7 @@ Each folder represents a specific day of the bootcamp, containing daily exercise
 | Day 8 | [Caesar Cipher](./Day8_Practise) | Functions with Inputs, Encryption/Decryption |
 | Day 9 | [AI Training Database](./Day9_Practise) | Nesting, List of Dictionaries, Data Manipulation |
 | Day 10 | [AI Model Analyzer](./Day10_FunctionOutputs) | Functions with Outputs, Multiple Returns, Docstrings |
-| Day 11 | [Blackjack Practise](./Day11_Practise) | Ace Logic Simulation & Dealer AI | [Play 🎮](replit.com/@akinntok45/Day11-Blackjack-live) |
+| Day 11 | [Blackjack Practise](./Day11_Practise) | Ace Logic Simulation & Dealer AI | [Play 🎮](https://replit.com/@akinntok45/Day11-Blackjack-live) |
 
 
 
