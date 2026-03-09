@@ -20,5 +20,6 @@ Each folder represents a specific day of the bootcamp, containing daily exercise
 | Day 10 | [AI Model Analyzer](./Day10_FunctionOutputs) | Functions with Outputs, Multiple Returns, Docstrings | - |
 | Day 11 | [Blackjack Practise](./Day11_Practise) | Ace Logic Simulation & Dealer AI, Lists | [Play 🎮](https://replit.com/@akinntok45/Day11-Blackjack-live) |
 | Day 12 | [Number Guessing Game](./Day12_Number_Guessing) | Scope (Global/Local), Type Hinting, Error Handling, AI Agent Workflow | - |
+| Day 13 | [Debugging](./Day13_Debugging) | Try-Except, PyCharm Debugger, Error Types | - |
 --- 
 🚀 * Follow my progress as I level up every day! * 🚀
