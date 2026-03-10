@@ -21,5 +21,6 @@ Each folder represents a specific day of the bootcamp, containing daily exercise
 | Day 11 | [Blackjack Practise](./Day11_Practise) | Ace Logic Simulation & Dealer AI, Lists | [Play 🎮](https://replit.com/@akinntok45/Day11-Blackjack-live) |
 | Day 12 | [Number Guessing Game](./Day12_Number_Guessing) | Scope (Global/Local), Type Hinting, Error Handling, AI Agent Workflow | - |
 | Day 13 | [Debugging](./Day13_Debugging) | Try-Except, PyCharm Debugger, Error Types | - |
+| Day 14 | [Higher Lower Game](./Day14_HigherLower) | Global/Local Scope, Dictionary Parsing, Game Logic | - |
 --- 
 🚀 * Follow my progress as I level up every day! * 🚀
