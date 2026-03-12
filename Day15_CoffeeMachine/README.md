@@ -1,23 +1,17 @@
-# Day 15: Digital Coffee Machine ☕
+# Day 15: Digital Coffee Machine (Full-Stack Edition) ☕
 
-A robust command-line coffee machine simulation built with Python. This project focuses on **resource management**, **transaction logic**, and **input validation**.
+This project marks a significant milestone in my journey. I've successfully implemented the core logic in Python and developed a modern, interactive web interface using React and TypeScript.
 
 ## 🛠 Features
-- **Menu Selection:** Choose between Espresso, Latte, and Cappuccino.
-- **Resource Monitoring:** Tracks Water, Milk, and Coffee levels in real-time.
-- **Coin Processing:** Accepts Quarters, Dimes, Nickels, and Pennies, calculating the total and providing change.
-- **Safety Checks:** - Verifies if there are enough ingredients before starting an order.
-    - Validates if the inserted money is sufficient for the chosen drink.
-- **Admin Commands:** - `Report`: View current resource levels and total profit.
-    - `Off`: Safely shut down the machine for maintenance.
+- **Core Logic (Python):** Robust resource management (water, milk, coffee) and transaction handling built on modular functions.
+- **Interactive Web UI:** A fully functional frontend where you can visualize the brewing process and manage coins through a sleek interface.
+- **Error Handling:** Integrated `try-except` blocks for numeric input validation and logic-based safety checks for resources.
 
-## 🧠 Technical Highlights
-- **Error Handling:** Implemented `try-except` blocks to handle invalid numeric inputs during coin insertion, preventing program crashes.
-- **Data Encapsulation:** Used nested dictionaries to manage menu prices and ingredient requirements dynamically.
-- **Modular Logic:** Divided the program into clear, functional blocks such as `check_resources`, `process_coins`, and `make_coffee` for better maintainability.
+## 💻 Tech Stack Extension
+- **Backend:** Python (Nested Dictionaries, Logic Blocks).
+- **Frontend:** React, TypeScript (.tsx), Tailwind CSS.
+- **Tools:** Gemini Interactive Playground for UI prototyping and PyCharm for backend development.
 
-## 🚀 How to Run
-1. Run `coffee_machine.py`.
-2. Type your drink choice when prompted.
-3. Insert coins as requested.
-4. Enjoy your virtual caffeine! ☕✨
+## 📂 Structure
+- `main.py`: The original Python backend logic.
+- `interactive-ui/`: Contains the React/TS components (`App.tsx`, `CoffeeMachine.tsx`).
