@@ -15,3 +15,8 @@ This project marks a significant milestone in my journey. I've successfully impl
 ## 📂 Structure
 - `main.py`: The original Python backend logic.
 - `interactive-ui/`: Contains the React/TS components (`App.tsx`, `CoffeeMachine.tsx`).
+
+> [!IMPORTANT]
+> **How to Run the Interactive UI:** Due to Replit's free tier limitations, you may need to click the **'Fork'** (or **'Edit in Replit'**) button and then press **'Run'** to see the interactive coffee machine interface. 
+> 
+> *Alternatively, you can inspect the logic in `main.py` or the frontend structure in the `interactive-ui/` directory.*
