@@ -23,9 +23,6 @@ def coffee_report():
     print(f"Coffee: {resources['coffee']}g")
     print(f"Money : ${resources['money']}")
 
-
-
-
 def check_resources(user_choice):
     user = user_choice.lower().strip()
     milk_of_coffee = 0
