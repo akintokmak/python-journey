@@ -10,7 +10,8 @@ As a 2nd-year Computer Engineering student, I am focused on mastering Python, Ar
 * Practicing Version Control (Git/GitHub) in a professional workflow.
 
 ## 🛠 Project Structure
-Each folder represents a specific day of the bootcamp, containing daily exercises and capstone projects.
+Each folder represents a specific day of the bootcamp, containing daily exercises and capstone projects.   
+
 
 | Day | Project Name | Key Concepts Learned | Demo |
 | :--- | :--- | :--- | :--- |
