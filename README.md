@@ -1,4 +1,4 @@
-# 🐍 Python Journey: 100 Days of Code
+# 🐍  Python Journey: 100 Days of Code
 
 This repository is a documentation of my journey through the **"100 Days of Code: The Complete Python Pro Bootcamp"**.   
 As a 2nd-year Computer Engineering student, I am focused on mastering Python, Artificial Intelligence, and Software Engineering principles.
