@@ -1,6 +1,6 @@
 # 🐍 Python Journey: 100 Days of Code
 
-This repository is a documentation of my journey through the **"100 Days of Code: The Complete Python Pro Bootcamp"**. 
+This repository is a documentation of my journey through the **"100 Days of Code: The Complete Python Pro Bootcamp"**.   
 As a 2nd-year Computer Engineering student, I am focused on mastering Python, Artificial Intelligence, and Software Engineering principles.
 
 ## 🎯 Goals
@@ -10,7 +10,7 @@ As a 2nd-year Computer Engineering student, I am focused on mastering Python, Ar
 * Practicing Version Control (Git/GitHub) in a professional workflow.
 
 ## 🛠 Project Structure
-Each folder represents a specific day of the bootcamp, containing daily exercises and capstone projects.
+Each folder represents a specific day of the bootcamp, containing daily exercises and capstone projects.   
 
 | Day | Project Name | Key Concepts Learned | Demo |
 | :--- | :--- | :--- | :--- |
@@ -22,6 +22,6 @@ Each folder represents a specific day of the bootcamp, containing daily exercise
 | Day 12 | [Number Guessing Game](./Day12_Number_Guessing) | Scope (Global/Local), Type Hinting, Error Handling, AI Agent Workflow | - |
 | Day 13 | [Debugging](./Day13_Debugging) | Try-Except, PyCharm Debugger, Error Types | - |
 | Day 14 | [Higher Lower Game](./Day14_Higher_Lower_game) | Global/Local Scope, Dictionary Parsing, Game Logic | - |
-| Day 15 | [Coffee Machine](./Day15_CoffeeMachine) | Requirements Analysis, Nested Dicts, Resource Control | - |
+| Day 15 | [Coffee Machine](./Day15_CoffeeMachine) | React/TS UI, Logic | [Replit Demo ☕](https://replit.com/@akinntok45/Interactive-Playground) |
 --- 
 🚀 * Follow my progress as I level up every day! * 🚀
