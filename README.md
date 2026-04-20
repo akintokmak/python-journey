@@ -24,5 +24,6 @@ Each folder represents a specific day of the bootcamp, containing daily exercise
 | Day 14 | [Higher Lower Game](./Day14_Higher_Lower_game) | Global/Local Scope, Dictionary Parsing, Game Logic | - |
 | Day 15 | [Coffee Machine](./Day15_CoffeeMachine) | React/TS UI, Logic | [Replit Demo ☕](https://replit.com/@akinntok45/Interactive-Playground) |
 | Day 16 | [OOP Coffee Machine](./Day16_OPP_CoffeeMachine) | Classes, Objects, Attributes, Methods | [Code 💻](./Day16_OPP_CoffeeMachine/main.py) |
+| Day 17 | [Quiz Project](./Day17_QuizProject) | OOP, Class Constructors, Modeling | [Code 💻](./Day17_QuizProject/main.py) |
 --- 
 🚀 * Follow my progress as I level up every day! * 🚀
