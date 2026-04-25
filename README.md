@@ -28,5 +28,6 @@ Each folder represents a specific day of the bootcamp, containing daily exercise
 | Day 18 | [Hirst Painting](./Day18-turtle_colors) | Turtle Graphics, Colorgram, RGB Manipulation | [Code 💻](./Day18-turtle_colors/main.py) |
 | Day 19 | [Turtle Games](./Day19_turtle_games) | Event Listeners, State, Instance Management | [Code 💻](./Day19_turtle_games/turtle_race.py) |
 | Day 20 | [Snake Game Part 1](./Day20_snakeGame_part_1) | Class Inheritance, List Manipulation, Screen Animation | [Code 💻](./Day20_snakeGame_part_1/main.py) |
+| Day 21 | [Snake Game Part 2](./Day21_snakeGame_part_2) | Class Inheritance, Slicing, Collision Detection | [Code 💻](./Day21_snakeGame_part_2/main.py) |
 --- 
 🚀 * Follow my progress as I level up every day! * 🚀
