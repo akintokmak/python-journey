@@ -30,6 +30,7 @@ Each folder represents a specific day of the bootcamp, containing daily exercise
 | Day 20 | [Snake Game Part 1](./Day20_snakeGame_part_1) | Class Inheritance, List Manipulation, Screen Animation | [Code 💻](./Day20_snakeGame_part_1/main.py) |
 | Day 21 | [Snake Game Part 2](./Day21_snakeGame_part_2) | Class Inheritance, Slicing, Collision Detection | [Code 💻](./Day21_snakeGame_part_2/main.py) |
 | Day 22 | [Pong Game](./Day22_PongGame) | Collision Logic, Coordinate Systems, Screen Updates | [Code 💻](./Day22_PongGame/main.py) |
-| Day 23 | [Turtle Crossing](./Day23_the_turtle_crossing_game) | Capstone Project: Class Management, Object Spawning, Difficulty Scaling | [Code 💻](./Day23_the_turtle_crossing_game/main.py) |
+| Day 23 | [Turtle Crossing](./Day23_the_turtle_crossing_game) | Capstone Project: Class Management, Object Spawning, Difficulty Scaling | [Code 💻](./Day23_the_turtle_crossing_game/main.py)|
+| Day 24 | [Mail Merge](./Day24_File) | Local File I/O, Absolute & Relative Paths, String Replacement, List Manipulation | [Code 💻](./Day24_File/main.py) |
 --- 
 🚀 * Follow my progress as I level up every day! * 🚀
