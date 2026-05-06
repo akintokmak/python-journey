@@ -32,5 +32,6 @@ Each folder represents a specific day of the bootcamp, containing daily exercise
 | Day 22 | [Pong Game](./Day22_PongGame) | Collision Logic, Coordinate Systems, Screen Updates | [Code 💻](./Day22_PongGame/main.py) |
 | Day 23 | [Turtle Crossing](./Day23_the_turtle_crossing_game) | Capstone Project: Class Management, Object Spawning, Difficulty Scaling | [Code 💻](./Day23_the_turtle_crossing_game/main.py)|
 | Day 24 | [Mail Merge](./Day24_File) | Local File I/O, Absolute & Relative Paths, String Replacement, List Manipulation | [Code 💻](./Day24_File/main.py) |
+| Day 25 | [U.S. States Game](./Day25_US_state_game) | CSV Data Analysis, Pandas Library, DataFrames, List Comprehension | [Code 💻](./Day25_US_state_game/U_S_state_game/main.py) |
 --- 
 🚀 * Follow my progress as I level up every day! * 🚀
