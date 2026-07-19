@@ -34,6 +34,6 @@ Each folder represents a specific day of the bootcamp, containing daily exercise
 | Day 24 | [Mail Merge](./Day24_File) | Local File I/O, Absolute & Relative Paths, String Replacement, List Manipulation | [Code 💻](./Day24_File/main.py) |
 | Day 25 | [U.S. States Game](./Day25_US_state_game) | CSV Data Analysis, Pandas Library, DataFrames, List Comprehension | [Code 💻](./Day25_US_state_game/U_S_state_game/main.py) |
 | Day 26 | [NATO Alphabet](./Day26_Nato_Alphabet) | List Comprehension, Dictionary Comprehension, Iterating Pandas DataFrames | [Code 💻](./Day26_Nato_Alphabet/NATO_alphabet/main.py) |
-| Day 27 | [Tkinter GUI & Converter](./Day27_Tkinter) | Graphical User Interfaces (GUI), Tkinter Widgets, `*args` and `**kwargs` | [Code 💻] (./Day27_Tkinter/Converter_Project.py) |
+| Day 27 | [Tkinter GUI & Converter](./Day27_Tkinter) | Graphical User Interfaces (GUI), Tkinter Widgets, `*args` and `**kwargs` | [Code 💻](./Day27_Tkinter/Converter_Project.py) |
 --- 
 🚀 * Follow my progress as I level up every day! * 🚀
