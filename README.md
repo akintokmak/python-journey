@@ -1,4 +1,4 @@
-# 🐍 Python Journey: 100 Days of Code
+<img width="421" height="336" alt="image" src="https://github.com/user-attachments/assets/185d66b4-ac46-4fc6-bc5b-d8189445ac69" /># 🐍 Python Journey: 100 Days of Code
 
 This repository is a documentation of my journey through the **"100 Days of Code: The Complete Python Pro Bootcamp"**.   
 As a 2nd-year Computer Engineering student, I am focused on mastering Python, Artificial Intelligence, and Software Engineering principles.
@@ -36,5 +36,6 @@ Each folder represents a specific day of the bootcamp, containing daily exercise
 | Day 26 | [NATO Alphabet](./Day26_Nato_Alphabet) | List Comprehension, Dictionary Comprehension, Iterating Pandas DataFrames | [Code 💻](./Day26_Nato_Alphabet/NATO_alphabet/main.py) |
 | Day 27 | [Tkinter GUI & Converter](./Day27_Tkinter) | Graphical User Interfaces (GUI), Tkinter Widgets, `*args` and `**kwargs` | [Code 💻](./Day27_Tkinter/Converter_Project.py) |
 | Day 28 | [Pomodoro Timer](./Day28_MiniPomoApp) | Tkinter Canvas, Dynamic GUI, window.after(), Time Management App | [Code 💻](./Day28_MiniPomoApp/main.py) |
+| Day 29 | [Password Manager](./Day29_Password_Manager) | Tkinter Grid Layout, Password Generator, File Management | [Code 💻](./Day29_Password_Manager/main.py) |
 --- 
 🚀 * Follow my progress as I level up every day! * 🚀
