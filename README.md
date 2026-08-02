@@ -1,4 +1,4 @@
-<img width="421" height="336" alt="image" src="https://github.com/user-attachments/assets/185d66b4-ac46-4fc6-bc5b-d8189445ac69" /># 🐍 Python Journey: 100 Days of Code
+# 🐍 Python Journey: 100 Days of Code
 
 This repository is a documentation of my journey through the **"100 Days of Code: The Complete Python Pro Bootcamp"**.   
 As a 2nd-year Computer Engineering student, I am focused on mastering Python, Artificial Intelligence, and Software Engineering principles.
