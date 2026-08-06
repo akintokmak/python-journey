@@ -7,7 +7,7 @@ As a 2nd-year Computer Engineering student, I am focused on mastering Python, Ar
 * Mastering Python fundamentals and advanced concepts.
 * Implementing clean code and professional naming conventions.
 * Building a strong portfolio for future AI and Software Engineering roles.
-* Practicing  Version Control (Git/GitHub) in a professional workflow.
+* Practicing Version Control (Git/GitHub) in a professional workflow.
 
 ## 🛠 Project Structure
 Each folder represents a specific day of the bootcamp, containing daily exercises and capstone projects.   
