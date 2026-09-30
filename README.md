@@ -39,6 +39,8 @@ Each folder represents a specific day of the bootcamp, containing daily exercise
 | Day 29 | [Password Manager](./Day29_Password_Manager) | Tkinter Grid Layout, Password Generator, File Management | [Code 💻](./Day29_Password_Manager/main.py) |
 | Day 30 | [Errors, Exceptions and JSON Data](./Day30_Errors_JSON) | Exception Handling (try/except/else/finally), JSON Data format | [Code 💻](./Day30_Errors_JSON/Password_manager/main.py) |
 | Day 31 | [Flash Card App Capstone](./Day31_Flash_Card) | Tkinter GUI, Pandas, CSV Data Management, UI/UX | [Code 💻](./Day31_Flash_Card/main.py) |
-| Day 32 | [Automated Birthday Wisher](./Day32_Email_Birthday_Wisher) | SMTP, Datetime, GitHub Actions Cloud Automation | [Code 💻](./Day32_Email_Birthday_Wisher/BirthdayWisher/main.py) |
+| Day 32 | [Automated Birthday Wisher](./Day32_Email_Birthday_Wisher) | SMTP, Datetime, GitHub Actions Cloud Automation | [Code 💻]
+(./Day32_Email_Birthday_Wisher/BirthdayWisher/main.py) |
+| Day 33 | [API Endpoints & ISS Notifier](./Day33_API) | APIs, HTTP Requests, Parameters, JSON | [Code 💻](./Day33_API/main.py) |
 --- 
 🚀  * Follow my progress as I level up every day! *  🚀
