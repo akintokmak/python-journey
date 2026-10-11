@@ -42,5 +42,6 @@ Each folder represents a specific day of the bootcamp, containing daily exercise
 | Day 32 | [Automated Birthday Wisher](./Day32_Email_Birthday_Wisher) | SMTP, Datetime, GitHub Actions Cloud Automation | [Code 💻](./Day32_Email_Birthday_Wisher/BirthdayWisher/main.py) |
 | Day 33 | [API Endpoints & ISS Notifier](./Day33_API) | APIs, HTTP Requests, Parameters, JSON | [Code 💻](./Day33_API/main.py) |
 | Day 34 | [GUI Quiz App (Quizzler)](./Day34_Quizzler_App) | API Practice, Tkinter GUI, Type Hints, OOP | [Code 💻](./Day34_Quizzler_App/main.py) |
+| Day 35 | [Rain Alert](./Day35_Rain_Allert) | API Keys, Authentication, Environment Variables, SMS | [Code 💻](./Day35_Rain_Allert/main.py) |
 --- 
 🚀  * Follow my progress as I level up every day! *  🚀
