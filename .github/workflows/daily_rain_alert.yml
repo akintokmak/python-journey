@@ -22,8 +22,8 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          python -m pip install --upgrade pip
-          pip install -r Day35/requirements.txt
+          pip install -r Day35_Rain_Allert/requirements.txt
+          run: python Day35_Rain_Allert/main.py
 
       - name: Execute Python Script
         env:
